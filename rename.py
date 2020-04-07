@@ -1,4 +1,4 @@
-## Rotina para acrescentar zeros nos arquivos de séries temporais ##
+## Rotina para acrescentar zeros nos arquivos de séries temporais ## In Portuguese ##
 
 # Para executar, digite no terminal, indicando a pasta "directory": $ python nomes.py
 
