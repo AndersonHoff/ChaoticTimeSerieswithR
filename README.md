@@ -14,13 +14,13 @@ R package based on the well-known TISEAN Package:
 https://cran.r-project.org/web/packages/tseriesChaos/index.html
 
 The paper below is resulted from different analysis in a Watt Governor System, 
-inncludind the 0-1 Test with the scrips cited.
+includind the 0-1 Test with the scrips cited:
 
 "Characterizing the Dynamics of the Watt Governor System Under Harmonic Perturbation and Gaussian Noise"
+https://www.worldscientific.com/doi/10.1142/S0218127420300013
 
-This article is a Featured Article in International Journal of Bifurcation and 
-Chaos, and also the cover of the journal.
+This article was chosen as Featured Article in International Journal of Bifurcation and Chaos, and also the issue cover.
 
-![IJBC cover of Vol. 30, NO 01.](/Images/cover_ijbc_vol30issue01_2020.png)
+![IJBC cover of Vol. 30, NO 01.](Images/cover_ijbc_vol30issue01_2020.jpg)
 
 
