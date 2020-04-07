@@ -1,4 +1,4 @@
-## Rotina para execução do Teste 0-1 em conjunto de séries temporais ##
+## Rotina para execução do Teste 0-1 em conjunto de séries temporais ## In Portuguese ##
 
 ## Para executar digite no terminal (na pasta com os dados): Rscript Test0_1_loop.R
 
