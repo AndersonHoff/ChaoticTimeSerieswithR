@@ -1,4 +1,4 @@
-## Rotina reconstrução atrator com delay #####
+## Rotina reconstrução atrator com delay ##### These scripts are in Portuguese ##
 
 ## Abre e executa o arquivo na pasta com os dados ##
 
